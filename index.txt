@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Papers and Practice Questions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        .subject-section {
+            margin-bottom: 30px;
+        }
+
+        .download-link {
+            display: block;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to our Sample Papers and Practice Questions Repository</h1>
+
+    <div class="subject-section">
+        <h2>Mathematics</h2>
+        <a class="download-link" href="math_sample_paper.pdf" download>Download Math Sample Paper</a>
+        <a class="download-link" href="math_practice_questions.pdf" download>Download Math Practice Questions</a>
+    </div>
+
+    <div class="subject-section">
+        <h2>Science</h2>
+        <a class="download-link" href="science_sample_paper.pdf" download>Download Science Sample Paper</a>
+        <a class="download-link" href="science_practice_questions.pdf" download>Download Science Practice Questions</a>
+    </div>
+
+    <div class="subject-section">
+        <h2>Social Science</h2>
+        <a class="download-link" href="social_science_sample_paper.pdf" download>Download Social Science Sample Paper</a>
+        <a class="download-link" href="social_science_practice_questions.pdf" download>Download Social Science Practice Questions</a>
+    </div>
+
+</body>
+</html>
